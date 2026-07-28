@@ -1,0 +1,14 @@
+{
+  "name": "donut-js",
+  "version": "1.0.0",
+  "description": "3D ASCII rotating donut animation migrated from Python to Node.js",
+  "main": "donut.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node donut.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}
